@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Cozy Apartment",
+    "guestIncluded": 2,
+    "price": 120.00,
+    "minimumNights": 3,
+    "availability": 30,
+    "numberOfReviews": 50,
+    "lastReview": {
+      "$timestamp": {
+        "t": 1622505600,
+        "i": 1
+      }
+    },
+    "RoomTypes": "60d21b4667d0d8992e610c87",
+    "Hosts": "60d21b4667d0d8992e610c85",
+    "Adresses": "60d21b4667d0d8992e610c85",
+    "Amenities": [
+      { "amenityName": "Wifi" },
+      { "amenityName": "Air Conditioning" }
+    ],
+    "ListingPhotos": [
+      {
+        "photoURL": "http://example.com/photo1.jpg",
+        "description": "Living room"
+      },
+      {
+        "photoURL": "http://example.com/photo2.jpg",
+        "description": "Bedroom"
+      }
+    ],
+    "Reviews": [
+      {
+        "User_id": "60d21b4667d0d8992e610c88",
+        "rating": 4.5,
+        "comment": "Great place!",
+        "review_date": {
+          "$timestamp": {
+            "t": 1622505600,
+            "i": 1
+          }
+        }
+      }
+    ],
+    "Bookings": [
+      {
+        "User_id": "60d21b4667d0d8992e610c88",
+        "checkIn": { "$date": "2021-06-01T00:00:00Z" },
+        "checkOut": { "$date": "2021-06-10T00:00:00Z" },
+        "noGuests": 2,
+        "Payments": [
+          {
+            "amount": 1200.00,
+            "payment_date": {
+              "$timestamp": {
+                "t": 1622505600,
+                "i": 1
+              }
+            },
+            "payment_method": "Credit Card"
+          }
+        ]
+      }
+    ]
+  }
+]

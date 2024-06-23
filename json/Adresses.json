@@ -1,0 +1,22 @@
+[
+  {
+    "neigbourhood_id": 101,
+    "street": "123 Elm Street",
+    "latitude": 40.712776,
+    "longtitude": -74.005974,
+    "postal_code": "10001",
+    "city": "New York",
+    "country": "USA",
+    "state": "NY"
+  },
+  {
+    "neigbourhood_id": 102,
+    "street": "456 Oak Avenue",
+    "latitude": 34.052235,
+    "longtitude": -118.243683,
+    "postal_code": "90001",
+    "city": "Los Angeles",
+    "country": "USA",
+    "state": "CA"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "birth_date": { "$date": "1990-01-01T00:00:00Z" },
+    "age": 31,
+    "gender": "Female",
+    "phone": "555-1234",
+    "email": "alice@example.com"
+  },
+  {
+    "first_name": "Bob",
+    "last_name": "Brown",
+    "birth_date": { "$date": "1985-05-20T00:00:00Z" },
+    "age": 36,
+    "gender": "Male",
+    "phone": "555-5678",
+    "email": "bob@example.com"
+  }
+]

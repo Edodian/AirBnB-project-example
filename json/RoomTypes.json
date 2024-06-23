@@ -1,0 +1,10 @@
+[
+  {
+    "roomType_name": "Entire Home",
+    "description": "A private house for rent."
+  },
+  {
+    "roomType_name": "Private Room",
+    "description": "A private room in a shared house."
+  }
+]
